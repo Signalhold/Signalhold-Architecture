@@ -1,5 +1,3 @@
-# Signalhold-Architecture
-
 # Signalhold
 
 A cognitive engine that collapses distortion and restores internal signal.
