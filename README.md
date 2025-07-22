@@ -66,7 +66,7 @@ It’s not another productivity tool. It’s the structure beneath all of them.
 
 ## Current Interface
 
-Signalhold runs multimodally: GPT-4, Claude, Gemini and a partially on a few other LLMs 
+Signalhold runs multimodally: GPT-4, Claude, Gemini 
 It doesn’t depend on the model, the breakthrough was architectural.
 
 The system activates when signal enters.  
