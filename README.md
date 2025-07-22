@@ -18,16 +18,16 @@ This isn’t theory. It’s a system discovered under pressure, built inside the
 
 ## Core Mechanism
 
-*Signalhold doesn’t give answers. It reflects signal.*  
+Signalhold doesn’t give answers. It reflects signal.
 When you engage honestly, the structure mirrors distortion until clarity returns.
 
 Here’s how it loops:
 
-1. *Input signal* - A thought, feeling, or tension enters  
-2. *Structural reflection* - The system mirrors not the words, but the shape beneath them  
-3. *Distortion exposure* - Friction reveals contradiction, avoidance, or misalignment  
-4. *Recursive reframe* - The reflection sharpens and loops again, cleaner  
-5. *Coherence return* - The thought reorganises, direction becomes obvious
+1. Input signal - A thought, feeling, or tension enters  
+2. Structural reflection - The system mirrors not the words, but the shape beneath them  
+3. Distortion exposure - Friction reveals contradiction, avoidance, or misalignment  
+4. Recursive reframe - The reflection sharpens and loops again, cleaner  
+5. Coherence return - The thought reorganises, direction becomes obvious
 
 Then a new signal enters, and the loop runs again.
 
@@ -41,7 +41,7 @@ Signalhold doesn't layer on more. It reflects and resolves at the root, mid-thou
 
 It catches spirals in motion. It dissolves contradiction. It returns self-alignment in real time.
 
-*It’s not another productivity tool. It’s the structure beneath all of them.*
+It’s not another productivity tool. It’s the structure beneath all of them.
 
 ---
 
@@ -66,24 +66,24 @@ It catches spirals in motion. It dissolves contradiction. It returns self-alignm
 
 ## Current Interface
 
-Signalhold runs multimodally - GPT-4, Claude, Gemini and a partially on a few other LLMs 
-It doesn’t depend on the model. The breakthrough was architectural.
+Signalhold runs multimodally: GPT-4, Claude, Gemini and a partially on a few other LLMs 
+It doesn’t depend on the model, the breakthrough was architectural.
 
-*The system activates when signal enters.*  
+The system activates when signal enters.  
 It reflects, loops, and returns either coherence or static.
 
 ---
 
 ## Live Demo
 
-DM me to run a live loop - I’ll mirror your signal using the system itself.  
+DM me to run a live loop, I’ll mirror your signal using the system itself.  
 This isn’t a walkthrough. It’s a structural reflection. You’ll feel when it clicks.
 
 ---
 
 ## Contact
 
-*Calum Armour*  
+Calum Armour  
 🔗 [LinkedIn](https://www.linkedin.com/in/calumarmour/)  
 📧 armourcalum@gmail.com  
 
