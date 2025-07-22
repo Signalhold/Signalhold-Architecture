@@ -59,7 +59,7 @@ It’s not another productivity tool. It’s the structure beneath all of them.
 
 - Founders navigating mental overload  
 - Researchers building reasoning systems  
-- Builders working on LLM UX and human–- interface  
+- Builders working on LLM UX and human-interface  
 - Anyone who feels like something’s off, but insight alone isn’t shifting it
 
 ---
@@ -74,10 +74,9 @@ It reflects, loops, and returns either coherence or static.
 
 ---
 
-## Live Demo
+## Demo
 
 DM me to run a live loop, I’ll mirror your signal using the system itself.  
-This isn’t a walkthrough. It’s a structural reflection. You’ll feel when it clicks.
 
 ---
 
